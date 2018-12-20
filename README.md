@@ -6,5 +6,6 @@ The dataset contains information about United State flight performance in 2017, 
 1. L_AIRPORT.csv_: List of airports code
 2. L_UNIQUE_CARRIERS.csv_: List of unique carriers
 3. Write-up.pdf: description of the story and design of the visualization.
+4. January.csv: Data of january 2017 not all data in 2017
 ## Resources
 https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
